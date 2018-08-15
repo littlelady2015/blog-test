@@ -4,4 +4,6 @@
 3. npm install
 4. hexo generate
 5. hexo serve
+
+
 then  open your browser to see the static website!
